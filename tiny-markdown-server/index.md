@@ -4,9 +4,20 @@ title: Tiny Markdown Server
 ---
 # Tiny Markdown Server
 
+![](/assets/tiny-markdown-server/ss.01.png)
+
 My first electron application.
 
 [Project page](https://github.com/smori1983/tiny-markdown-server)
+
+
+## Usage
+
+- Select the directory where markdown files are saved (Like Apache's document root).
+- Enter the port (80-65535).
+- Click 'start'.
+- Open in browser.
+
 
 ## Download
 
