@@ -11,14 +11,6 @@ My first electron application.
 [Project page](https://github.com/smori1983/tiny-markdown-server)
 
 
-## Usage
-
-- Select the directory where markdown files are saved (Like Apache's document root).
-- Enter the port (80-65535).
-- Click 'start'.
-- Open in browser.
-
-
 ## Download
 
 ### `v1.0.0`
@@ -28,6 +20,14 @@ My first electron application.
 
 [release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.0/TinyMarkdownServer-1.0.0-win.zip
 [release_mac]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.0/TinyMarkdownServer-1.0.0-mac.zip
+
+
+## Usage
+
+- Select the directory where markdown files are saved (Like Apache's document root).
+- Enter the port (80-65535).
+- Click 'start'.
+- Open in browser.
 
 
 ## Demo
