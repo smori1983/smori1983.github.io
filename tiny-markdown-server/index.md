@@ -13,13 +13,13 @@ My first electron application.
 
 ## Download
 
-### `v1.0.0`
+### `v1.0.1`
 
 - [Windows][release_win]
 - [Mac][release_mac]
 
-[release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.0/TinyMarkdownServer-1.0.0-win.zip
-[release_mac]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.0/TinyMarkdownServer-1.0.0-mac.zip
+[release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.1/TinyMarkdownServer-1.0.1-win.zip
+[release_mac]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.1/TinyMarkdownServer-1.0.1-mac.zip
 
 
 ## Usage
