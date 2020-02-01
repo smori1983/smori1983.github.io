@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Tiny Markdown Server
 tms_version: 1.0.1
 ---
@@ -8,8 +8,6 @@ tms_version: 1.0.1
 [release_mac]: https://github.com/smori1983/smori1983.github.io/raw/tms_{{ page.tms_version }}/TinyMarkdownServer-{{ page.tms_version }}-mac.zip
 
 
-
-# Tiny Markdown Server
 
 ![]({% link assets/tiny-markdown-server/ss.01.png %})
 

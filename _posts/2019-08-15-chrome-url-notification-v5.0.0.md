@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: post
 title: Chrome URL Notification v5.0.0 released
 ---
-# Chrome URL Notification v5.0.0 released
-
-
 ## Tool overview
 
 Notify user when the URL matches the registered patterns.
