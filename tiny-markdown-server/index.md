@@ -1,25 +1,29 @@
 ---
 layout: default
 title: Tiny Markdown Server
+tms_version: 1.0.1
 ---
+[github]: https://github.com/smori1983/tiny-markdown-server
+[release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_{{ page.tms_version }}/TinyMarkdownServer-{{ page.tms_version }}-win.zip
+[release_mac]: https://github.com/smori1983/smori1983.github.io/raw/tms_{{ page.tms_version }}/TinyMarkdownServer-{{ page.tms_version }}-mac.zip
+
+
+
 # Tiny Markdown Server
 
-![](/assets/tiny-markdown-server/ss.01.png)
+![]({% link assets/tiny-markdown-server/ss.01.png %})
 
 My first electron application.
 
-[Project page](https://github.com/smori1983/tiny-markdown-server)
+[Project page][github]
 
 
 ## Download
 
-### `v1.0.1`
+version: `{{ page.tms_version }}`
 
 - [Windows][release_win]
 - [Mac][release_mac]
-
-[release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.1/TinyMarkdownServer-1.0.1-win.zip
-[release_mac]: https://github.com/smori1983/smori1983.github.io/raw/tms_1.0.1/TinyMarkdownServer-1.0.1-mac.zip
 
 
 ## Usage
@@ -49,7 +53,7 @@ demo_folder/
 
 The top page will be:
 
-![](/assets/tiny-markdown-server/demo.01.png)
+![]({% link assets/tiny-markdown-server/demo.01.png %})
 
 - Only markdown files are listed.
 - Only **.md** is considered as markdown file.
@@ -70,4 +74,4 @@ Of course you can use images in markdown.
 
 This markdown will be:
 
-![](/assets/tiny-markdown-server/demo.02.png)
+![]({% link assets/tiny-markdown-server/demo.02.png %})
