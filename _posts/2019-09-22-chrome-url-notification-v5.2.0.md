@@ -12,7 +12,7 @@ Notify user when the URL matches the registered patterns.
 
 ## Download
 
-[chrome web store](https://chrome.google.com/webstore/detail/chrome-url-notification/gdnmbdajkmabbkejinjnjdobmkbfhonn)
+[chrome web store][chrome_web_store]
 
 
 ## CHANGELOG
@@ -31,4 +31,8 @@ Notify user when the URL matches the registered patterns.
 
 ## Project home
 
-[github](https://github.com/smori1983/chrome-url-notification)
+[github][github]
+
+
+
+{% include chrome-url-notification.md %}
