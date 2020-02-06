@@ -2,6 +2,8 @@
 layout: page
 title: Tiny Markdown Server
 tms_version: 1.0.1
+tms_md5sum_win: 86d3a2fdefe7367b15c29a495c5c8221
+tms_md5sum_mac: d3f3e238e0d03def41901f9c610dc630
 ---
 [github]: https://github.com/smori1983/tiny-markdown-server
 [release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_{{ page.tms_version }}/TinyMarkdownServer-{{ page.tms_version }}-win.zip
@@ -20,8 +22,10 @@ My first electron application.
 
 version: `{{ page.tms_version }}`
 
-- [Windows][release_win]
-- [Mac][release_mac]
+|Platform|MD5 Sum|
+|---|---|
+|[Windows][release_win]|`{{ page.tms_md5sum_win }}`|
+|[Mac][release_mac]    |`{{ page.tms_md5sum_mac }}`|
 
 
 ## Usage
