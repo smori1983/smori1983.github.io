@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Tiny Markdown Server
-tms_version: 1.0.1
-tms_md5sum_win: 86d3a2fdefe7367b15c29a495c5c8221
-tms_md5sum_mac: d3f3e238e0d03def41901f9c610dc630
+tms_version: 1.0.2
+tms_md5sum_win: 4f70661051b3f3cc433a49a7f76c42d1
+tms_md5sum_mac: 7792473ec7b740c432b070095347e76a
 ---
 [github]: https://github.com/smori1983/tiny-markdown-server
 [release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_{{ page.tms_version }}/TinyMarkdownServer-{{ page.tms_version }}-win.zip
