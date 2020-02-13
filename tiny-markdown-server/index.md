@@ -6,8 +6,8 @@ tms_md5sum_win: 4f70661051b3f3cc433a49a7f76c42d1
 tms_md5sum_mac: 7792473ec7b740c432b070095347e76a
 ---
 [github]: https://github.com/smori1983/tiny-markdown-server
-[release_win]: https://github.com/smori1983/smori1983.github.io/raw/tms_{{ page.tms_version }}/TinyMarkdownServer-{{ page.tms_version }}-win.zip
-[release_mac]: https://github.com/smori1983/smori1983.github.io/raw/tms_{{ page.tms_version }}/TinyMarkdownServer-{{ page.tms_version }}-mac.zip
+[release_win]: https://tiny-markdown-server.smori.info/TinyMarkdownServer-{{ page.tms_version }}-win.zip
+[release_mac]: https://tiny-markdown-server.smori.info/TinyMarkdownServer-{{ page.tms_version }}-mac.zip
 
 
 
