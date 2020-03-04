@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Tiny Markdown Server
-tms_version: 1.0.2
-tms_md5sum_win: 4f70661051b3f3cc433a49a7f76c42d1
-tms_md5sum_mac: 7792473ec7b740c432b070095347e76a
+tms_version: 1.1.0
+tms_md5sum_win: d2d54119e9d79c8df18ff021cc8f7476
+tms_md5sum_mac: 360f99e0073153f633ad241a1a59f954
 ---
 [github]: https://github.com/smori1983/tiny-markdown-server
 [release_win]: https://tiny-markdown-server.smori.info/TinyMarkdownServer-{{ page.tms_version }}-win.zip
@@ -58,7 +58,7 @@ The top page will be:
 ![]({% link assets/tiny-markdown-server/demo.01.png %})
 
 - Only markdown files are listed.
-- Only **.md** is considered as markdown file.
+- **.md** and **.markdown** are considered as markdown file.
 
 Of course you can use images in markdown.
 
