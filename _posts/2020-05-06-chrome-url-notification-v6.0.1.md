@@ -4,7 +4,7 @@ title: Chrome URL Notification v6.0.1 released
 ---
 ## Tool overview
 
-Notify user when the URL matches the registered patterns.
+Notify user with message element which is created in the page when the URL matches the registered patterns.
 
 
 ## Download
